@@ -337,3 +337,6 @@ export const Home = () => {
 
 //----- SyntheticEvent -------
 //Link: https://pt-br.legacy.reactjs.org/docs/events.html
+
+//----- Mock Service Worker ------
+//Link: https://mswjs.io/docs/getting-started/install
